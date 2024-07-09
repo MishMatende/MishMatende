@@ -4,8 +4,8 @@ I'm a software-developer based in Kenya, Africa. 📍
 - Here's a link to my [website](https://mishael-website.vercel.app/)
 
 # Stack 🗃️
-##### Frontend: ``` HTML ``` ``` Native CSS ``` ``` JavaScript ``` ``` React ``` ``` Bootstrap  ``` ``` Tailwind ``` 
-##### Backend: ``` Javascript ``` ``` Supabase ```
+##### Frontend: ``` HTML ``` ``` Native CSS ``` ``` JavaScript ``` ``` React ``` ``` Bootstrap  ``` ``` Tailwind ``` ```EJS```
+##### Backend: ``` Javascript ``` ``` Supabase ``` ```Node``` ```Expressjs```
 ##### Version Control: ``` Git ```
 ##### Testing: ``` Postman ```
 
