@@ -5,7 +5,7 @@ I'm a software-developer based in Kenya, Africa. 📍
 
 # Stack 🗃️
 ##### Frontend: ``` HTML ``` ``` Native CSS ``` ``` JavaScript ``` ``` React ``` ``` Bootstrap  ``` ``` Tailwind ``` ```EJS```
-##### Backend: ``` Javascript ``` ``` Supabase ``` ```Node``` ```Expressjs```
+##### Backend: ``` Javascript ``` ``` Supabase ``` ```Nodejs``` ```Expressjs```
 ##### Version Control: ``` Git ```
 ##### Testing: ``` Postman ```
 
