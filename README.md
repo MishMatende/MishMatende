@@ -4,7 +4,7 @@ I'm a software-developer based in Kenya, Africa. 📍
 - Here's a link to my [website](https://mishaeldev.netlify.app/)
 
 # Stack 🗃️
-##### Frontend: ``` HTML ``` ``` Native CSS ``` ``` JavaScript ``` ``` React ``` ``` Bootstrap  ``` ``` Tailwind ``` ```EJS```
+##### Frontend: ``` HTML ``` ``` Native CSS ``` ``` JavaScript ``` ``` React ``` ``` Bootstrap  ``` ``` Tailwind ``` ```EJS``` ```Svelte```
 ##### Backend: ``` Javascript ``` ``` Supabase ``` ```Nodejs``` ```Expressjs```
 ##### Database ```SQL``` ```POSTGRESQL```
 ##### Version Control: ``` Git ```
